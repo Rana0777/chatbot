@@ -1,0 +1,2 @@
+i am yuvraj singh, i am an ai engineer , i have studies my ai course by ed donner.
+i generate a chatbot that fetch the data from llm or your personalise document. and then recheck from other llm that it is true or false.
